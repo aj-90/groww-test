@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/groww-test/static/css/main.ead919ae.chunk.css",
+    "main.js": "/groww-test/static/js/main.552077ee.chunk.js",
+    "main.js.map": "/groww-test/static/js/main.552077ee.chunk.js.map",
+    "runtime-main.js": "/groww-test/static/js/runtime-main.9292cfca.js",
+    "runtime-main.js.map": "/groww-test/static/js/runtime-main.9292cfca.js.map",
+    "static/css/2.818011ed.chunk.css": "/groww-test/static/css/2.818011ed.chunk.css",
+    "static/js/2.bada2d01.chunk.js": "/groww-test/static/js/2.bada2d01.chunk.js",
+    "static/js/2.bada2d01.chunk.js.map": "/groww-test/static/js/2.bada2d01.chunk.js.map",
+    "index.html": "/groww-test/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/groww-test/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.ead919ae.chunk.css.map": "/groww-test/static/css/main.ead919ae.chunk.css.map",
+    "static/js/2.bada2d01.chunk.js.LICENSE.txt": "/groww-test/static/js/2.bada2d01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9292cfca.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.bada2d01.chunk.js",
+    "static/css/main.ead919ae.chunk.css",
+    "static/js/main.552077ee.chunk.js"
+  ]
+}
